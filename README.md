@@ -5,6 +5,11 @@ This project is a simple Java application for generating X.509 certificates. It 
 ## Requirements
 Java Development Kit (JDK) 8 or higher
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
 ## How to Use
 
 To generate a certificate, you can use the provided `CertificateUtils` class. Here's a basic example:
